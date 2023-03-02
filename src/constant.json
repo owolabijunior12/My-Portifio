@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "company": "Freelencer",
+            "link": "/",
+            "title": "Frontend Developer",
+            "duration": "September 2022 - Present",
+            "desc": [
+                "I build website from Organisations",
+                "I Manage  website for Organistions",
+                "I Redesign website for Organistions"
+            ]
+        }      
+        
+    ],
+    "projects": [
+        {
+            "title":"Music Application",
+            "image": "./images/Iboytech-Music-App.png",
+            "desc": "This is a personal project, and my college fro final year project",
+            "skills": ["Html", "Css", "JavaScript"],
+            "github": "https://github.com/owolabijunior12/music-applicartion",
+            "link": "https://iboytechmusicapp.netlify.app/"
+        },
+        {
+            "title":"Spotify",
+            "image": "./images/project_2.png",
+            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "skills": ["Html", "Css", "JavaScript"],
+            "github": "https://github.com/owolabijunior12/digitial-clock",
+            "link": "/"
+        }
+    ]
+}
