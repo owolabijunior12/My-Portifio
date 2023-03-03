@@ -23,9 +23,9 @@
             "link": "https://iboytechmusicapp.netlify.app/"
         },
         {
-            "title":"Spotify",
+            "title":"Digitial clock",
             "image": "./images/project_2.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "desc": "This is a personal project",
             "skills": ["Html", "Css", "JavaScript"],
             "github": "https://github.com/owolabijunior12/digitial-clock",
             "link": "/"
