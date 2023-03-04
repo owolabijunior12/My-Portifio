@@ -28,7 +28,15 @@
             "desc": "This is a personal project",
             "skills": ["Html", "Css", "JavaScript"],
             "github": "https://github.com/owolabijunior12/digitial-clock",
-            "link": "/"
+            "link": "https://github.com/owolabijunior12/digitial-clock"
+        },
+        {
+            "title":"Digitial clock",
+            "image": "./images/project_2.png",
+            "desc": "This is a personal project",
+            "skills": ["Html", "Css", "JavaScript"],
+            "github": "https://github.com/owolabijunior12/digitial-clock",
+            "link": "https://github.com/owolabijunior12/digitial-clock"
         }
     ]
 }
