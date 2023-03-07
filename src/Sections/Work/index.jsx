@@ -32,7 +32,7 @@ function Work() {
 									))}
 								</div>
 								<div>
-									<a href="/" className={styles.link}>
+									<a href="h" className={styles.link}>
 										<GitHubIcon />
 									</a>
 									<a href="https://iboytechmusicapp.netlify.app/" className={styles.link}>
